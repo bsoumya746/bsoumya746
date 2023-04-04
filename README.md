@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Soumya</h1>
-<h3 align="center">I am an engineering undergrad from India.I have a profound interest in competitive programming and Web3 development .</h3>
+<h1 align="center">Hi 👋, I'm Soumya.</h1>
+<h3 align="center">I am an engineering undergrad from India.I have a profound interest in Web3 development and competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsoumya746&label=Profile%20views&color=0e75b6&style=flat" alt="bsoumya746" /> </p>
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/soumya-bhattacharya-93644625b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyabhattacharya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
