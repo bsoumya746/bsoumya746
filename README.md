@@ -8,7 +8,7 @@
   - **Javascript**...
   - **Data Structures and Algorithms**...
 
-- 📫 Reach me at **bsoumya746@gmail.com**
+- 📫 Reach me at --> **bsoumya746@gmail.com**
 
 - ⚡ Fun fact **- Hot water turns into ice faster than cold water.**
 
