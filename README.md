@@ -8,14 +8,12 @@
   - **Javascript**...
   - **Data Structures and Algorithms**...
 
-- 📫 Reach me at --> **bsoumya746@gmail.com**
 
 - ⚡ Fun fact **- Hot water turns into ice faster than cold water.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soumya-bhattacharya-93644625b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-bhattacharya-93644625b" height="30" width="40" /></a>
-</p>
+### 📫 How to reach me: ...
+[![Linkedin Badge](./pngegg.png)](https://www.linkedin.com/in/soumya-bhattacharya-93644625b/)
+[![Gmail Badge](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-32.png)](mailto:bsoumya746@gmail.com.com)
 
 ### 💬 Ask me about ...
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
