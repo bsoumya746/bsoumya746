@@ -12,7 +12,7 @@
 - ⚡ Fun fact **- Hot water turns into ice faster than cold water.**
 
 ### 📫 How to reach me: ...
-[![Linkedin Badge](<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>)](https://www.linkedin.com/in/soumya-bhattacharya-93644625b/)
+[![Linkedin Badge](https://raw.githubusercontent.com/YashvanthD/YashvanthD/main/pngegg.png)](https://www.linkedin.com/in/soumya-bhattacharya-93644625b/)
 [![Gmail Badge](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-32.png)](mailto:bsoumya746@gmail.com.com)
 
 ### 💬 Ask me about ...
