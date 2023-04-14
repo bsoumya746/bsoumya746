@@ -21,7 +21,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVim_%2528text_editor%2529&psig=AOvVaw0Q48ct6hQUONx0Mvylb5-T&ust=1681539249531000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNje4v_bqP4CFQAAAAAdAAAAABAD"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></code>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsoumya746&show_icons=true&theme=tokyonight)
 
