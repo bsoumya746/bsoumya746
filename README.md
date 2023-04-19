@@ -19,7 +19,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
-<code><img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconspng.com%2Fimage%2F90007%2Fjs&psig=AOvVaw0k3QsRZMjHvd0vCBbUHG0Q&ust=1682017963999000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCTr67Ttv4CFQAAAAAdAAAAABAD"></code>
+<code><img height="50" src="https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
