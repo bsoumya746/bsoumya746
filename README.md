@@ -28,8 +28,8 @@
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></code>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsoumya746&show_icons=true&theme=tokyonight)
+![](https://https://github-readme-stats-bsoumya746.vercel.app/api/top-langs/?username=bsoumya746&show_icons=true&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsoumya746&show_icons=true&locale=en" alt="bsoumya746" /></p>
+<p>&nbsp;<img align="center" src="https://https://github-readme-stats-bsoumya746.vercel.app/api?username=bsoumya746&show_icons=true&locale=en" alt="bsoumya746" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bsoumya746&" alt="bsoumya746" /></p>
