@@ -29,6 +29,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsoumya746&show_icons=true&theme=tokyonight)
 
+### My GitHub Stats
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsoumya746&show_icons=true&theme=gruvbox)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bsoumya746&" alt="bsoumya746" /></p>
+### My GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsoumya746&theme=gruvbox)](https://github.com/DenverCoder1/github-readme-streak-stats)
