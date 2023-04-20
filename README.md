@@ -27,7 +27,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></code>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvanthD&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bsoumya746&show_icons=true&theme=tokyonight)
 
 ### My GitHub Stats
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsoumya746&show_icons=true&theme=gruvbox)
