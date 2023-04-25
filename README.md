@@ -34,4 +34,6 @@
 
 ### My GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsoumya746&theme=gruvbox)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
